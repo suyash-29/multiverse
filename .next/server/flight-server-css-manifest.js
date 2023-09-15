@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"C:\\Users\\Suyash singh chauhan\\Desktop\\ReactJS\\app2\\app\\page":["C:\\Users\\Suyash singh chauhan\\Desktop\\ReactJS\\app2\\styles\\globals.css"]},"C:\\Users\\Suyash singh chauhan\\Desktop\\ReactJS\\app2\\app\\layout.js":["C:\\Users\\Suyash singh chauhan\\Desktop\\ReactJS\\app2\\styles\\globals.css"]}
